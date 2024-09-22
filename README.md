@@ -1,15 +1,16 @@
 ## Overview
-A custom React.js compiler built entirely by a React.js developer! 😄 <br/>
-i accomplished this project by completing these steps: <br/>
-Writing  the Lexer and Parser Grammar. <br/>
+**A custom React.js compiler built entirely by a React.js developer!** 😄 <br/>
+
+I accomplished this project by completing these steps: <br/>
+Writing  the Lexar and Parser Grammar. <br/>
 Building the AST Classes. <br/>
-Building the Vistors. <br/>
+Building the Visitors. <br/>
 Handling the Syntax and Semantic Errors. <br/>
 Dealing with Code Generation (convert React.js Code to The Native Languages). <br/>
 
 You can find the source code attached which contains: <br/>
   *src* directory: contains the whole programming files. <br/>
-  *tests* directory: contains the test files (e.g: test1.txt) and these files are checked by the compiler, So you can see the results in GenTests directory and the terminal. <br/>
+  *tests* directory: contains the test files (e.g. test1.txt) and these files are checked by the compiler, So you can see the results in GenTests directory and the terminal. <br/>
 
 ## Technical information
 • **ANTLR Integration**: Leveraging ANTLR for robust grammar parsing and tokenization. <br/>
